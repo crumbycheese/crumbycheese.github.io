@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crumbycheese.github.io/</id>
     <title>新宿的diner</title>
-    <updated>2020-02-02T09:38:55.096Z</updated>
+    <updated>2020-02-02T10:00:24.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crumbycheese.github.io/"/>
     <link rel="self" href="https://crumbycheese.github.io/atom.xml"/>
@@ -22,6 +22,12 @@
         <content type="html"><![CDATA[<h2 id="鉴于目前大部分人只用到五星支援技能所以只整理了五星技能">鉴于目前大部分人只用到五星支援技能，所以只整理了五星技能</h2>
 <h3 id="如有错误与疏漏请联系攻略组微博">如有错误与疏漏请联系攻略组微博</h3>
 <!-- more -->
+<p><a href="#数值补正">▪️ 1.数值补正类</a><br>
+<a href="#掉率提升">▪️ 2.掉率提升类</a><br>
+<a href="#应援">▪️ 3.应援类</a><br>
+<a href="#筹码">▪️ 4.筹码类</a><br>
+<a href="#金币">▪️ 5.金币类</a><br>
+<a href="#熟练度">▪️ 6.熟练度类</a></p>
 <table>
 <thead>
 <tr>
@@ -33,7 +39,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>数值补正类</strong></td>
+<td><h1 id="数值补正"></h1><strong>数值补正类</strong></td>
 <td>モクレン</td>
 <td>【黄昏の憂鬱】/【クレイジーバイオレット】</td>
 <td>公演的Da补正值大UP</td>
@@ -117,7 +123,7 @@
 <td>公演的Da补正值大UP</td>
 </tr>
 <tr>
-<td><strong>掉率提升类</strong></td>
+<td><h1 id="掉率提升"></h1> <strong>掉率提升类</strong></td>
 <td>リンドウ</td>
 <td>【雨の晴れ間に】/【翠色の王子】</td>
 <td>公演结束后chance值增加200</td>
@@ -147,7 +153,7 @@
 <td>公演结束后chance值增加100</td>
 </tr>
 <tr>
-<td><strong>应援类</strong></td>
+<td><h1 id="应援"></h1> <strong>应援类</strong></td>
 <td>ケイ</td>
 <td>【王者の休日】/【金色の支配者】</td>
 <td>初期应援值+50%</td>
@@ -231,7 +237,7 @@
 <td>P组应援值提升量增加30%</td>
 </tr>
 <tr>
-<td><strong>筹码类</strong></td>
+<td><h1 id="筹码"></h1> <strong>筹码类</strong></td>
 <td>ミズキ</td>
 <td>【狂犬】/【傷だらけの朱星】</td>
 <td>公演结束后50%概率获得筹码</td>
@@ -249,7 +255,7 @@
 <td>公演结束后50%概率获得筹码</td>
 </tr>
 <tr>
-<td><strong>金币类</strong></td>
+<td><h1 id="金币"></h1> <strong>金币类</strong></td>
 <td>銀星</td>
 <td>【古典の世界】/【藍錆色の煌めき】</td>
 <td>公演结束后金币数量增加100%</td>
@@ -261,7 +267,7 @@
 <td>公演结束后金币数量增加100%</td>
 </tr>
 <tr>
-<td><strong>熟练度类</strong></td>
+<td><h1 id="熟练度"></h1> <strong>熟练度类</strong></td>
 <td>ケイ</td>
 <td>【トップスター】/【白鳥の騎士】</td>
 <td>所有歌曲熟练度提高两级，但不能超过最大值</td>
