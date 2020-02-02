@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crumbycheese.github.io/</id>
     <title>新宿的diner</title>
-    <updated>2020-02-02T11:55:59.517Z</updated>
+    <updated>2020-02-02T11:58:30.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crumbycheese.github.io/"/>
     <link rel="self" href="https://crumbycheese.github.io/atom.xml"/>
@@ -284,7 +284,7 @@
         <link href="https://crumbycheese.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>一个垃圾博客<br>
+        <content type="html"><![CDATA[<p>一个全是碎碎念和垃圾的博客<br>
 <strong>黑星相关请在标签查看</strong></p>
 ]]></content>
     </entry>
