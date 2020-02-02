@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crumbycheese.github.io/</id>
     <title>新宿的diner</title>
-    <updated>2020-02-02T11:53:52.019Z</updated>
+    <updated>2020-02-02T11:55:59.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crumbycheese.github.io/"/>
     <link rel="self" href="https://crumbycheese.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://crumbycheese.github.io/images/avatar.png</logo>
     <icon>https://crumbycheese.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 新宿的diner</rights>
+    <entry>
+        <title type="html"><![CDATA[电王二刷笔记]]></title>
+        <id>https://crumbycheese.github.io/post/dian-wang-er-shua-bi-ji</id>
+        <link href="https://crumbycheese.github.io/post/dian-wang-er-shua-bi-ji">
+        </link>
+        <updated>2020-02-02T11:54:33.000Z</updated>
+        <content type="html"><![CDATA[<p>按你胃是篇为了某对胃疼cp开始二刷然后用来记些有的没的的东西的碎碎念</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五星支援技能整理]]></title>
         <id>https://crumbycheese.github.io/post/wu-xing-zhi-yuan-ji-neng-zheng-li</id>
