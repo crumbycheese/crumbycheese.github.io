@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crumbycheese.github.io/</id>
     <title>新宿的diner</title>
-    <updated>2020-02-17T07:15:44.459Z</updated>
+    <updated>2020-02-17T07:29:44.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crumbycheese.github.io/"/>
     <link rel="self" href="https://crumbycheese.github.io/atom.xml"/>
@@ -132,6 +132,12 @@
 <td>公演的Da补正值大UP</td>
 </tr>
 <tr>
+<td></td>
+<td>玻璃</td>
+<td>【予測不能のライド】/【澱みなき碧色の思考】</td>
+<td>公演的Da、Ac补正值中UP</td>
+</tr>
+<tr>
 <td><h1 id="掉率提升"></h1> <strong>掉率提升类</strong></td>
 <td>リンドウ</td>
 <td>【雨の晴れ間に】/【翠色の王子】</td>
@@ -229,6 +235,12 @@
 </tr>
 <tr>
 <td></td>
+<td>ク一</td>
+<td>【昼下がりの彷徨】/【風に舞う燕子花】</td>
+<td>初期应援值+50%</td>
+</tr>
+<tr>
+<td></td>
 <td>ヒース</td>
 <td>【冷たい手をつかんで】/【海松色の咆哮】</td>
 <td>B组应援值提升量增加40%</td>
@@ -239,45 +251,15 @@
 <td>【新しい運命をつかめ】/【コ一ラルに輝いて】</td>
 <td>初期应援值+50%</td>
 </tr>
-<tr>
-<td><h1 id="筹码"></h1> <strong>筹码类</strong></td>
-<td>ミズキ</td>
-<td>【狂犬】/【傷だらけの朱星】</td>
-<td>公演结束后50%概率获得筹码</td>
-</tr>
-<tr>
-<td></td>
-<td>ミズキ</td>
-<td>【外れた鎖】/【朱星復活】</td>
-<td>公演结束后50%概率获得筹码</td>
-</tr>
-<tr>
-<td></td>
-<td>ギィ</td>
-<td>【忠犬は己を見つめる】/【亜麻色の無垢】</td>
-<td>公演结束后50%概率获得筹码</td>
-</tr>
-<tr>
-<td><h1 id="金币"></h1> <strong>金币类</strong></td>
-<td>銀星</td>
-<td>【古典の世界】/【藍錆色の煌めき】</td>
-<td>公演结束后金币数量增加100%</td>
-</tr>
-<tr>
-<td></td>
-<td>鷹見</td>
-<td>【偽りの紫煙】/【紺鉄の虚実】</td>
-<td>公演结束后金币数量增加100%</td>
-</tr>
-<tr>
-<td><h1 id="熟练度"></h1> <strong>熟练度类</strong></td>
-<td>ケイ</td>
-<td>【トップスター】/【白鳥の騎士】</td>
-<td>所有歌曲熟练度提高两级，但不能超过最大值</td>
-</tr>
 </tbody>
 </table>
-<p><a href="#回到顶部"><strong>回到顶部</strong></a></p>
+<p>|<h1 id="筹码"></h1> <strong>筹码类</strong>  |ミズキ   |  【狂犬】/【傷だらけの朱星】 | 公演结束后50%概率获得筹码  |<br>
+|   | ミズキ  | 【外れた鎖】/【朱星復活】  |  公演结束后50%概率获得筹码 |<br>
+|   | ギィ  | 【忠犬は己を見つめる】/【亜麻色の無垢】  |  公演结束后50%概率获得筹码 |<br>
+|<h1 id="金币"></h1> <strong>金币类</strong> | 銀星  |  【古典の世界】/【藍錆色の煌めき】 | 公演结束后金币数量增加100%  |<br>
+|   | 鷹見  |   【偽りの紫煙】/【紺鉄の虚実】|  公演结束后金币数量增加100% |<br>
+|<h1 id="熟练度"></h1> <strong>熟练度类</strong>|  ケイ | 【トップスター】/【白鳥の騎士】  |  所有歌曲熟练度提高两级，但不能超过最大值 |<br>
+<a href="#回到顶部"><strong>回到顶部</strong></a></p>
 ]]></content>
     </entry>
     <entry>
@@ -783,10 +765,10 @@
 </tr>
 <tr>
 <td>5</td>
-<td>【】/【】</td>
+<td>【予測不能のライド】/【澱みなき碧色の思考】</td>
 <td>玻璃</td>
 <td>舞台</td>
-<td>？/？/？/？</td>
+<td>12/？/？/？</td>
 <td>1/？/？/？</td>
 </tr>
 <tr>
@@ -1029,7 +1011,7 @@
 </tr>
 <tr>
 <td>5</td>
-<td>【】/【】</td>
+<td>【昼下がりの彷徨】/【風に舞う燕子花】</td>
 <td>クー</td>
 <td>舞台</td>
 <td>15/？/？/？</td>
